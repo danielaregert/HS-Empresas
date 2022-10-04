@@ -1,0 +1,8 @@
+.tema1_bg, .tema2_bg {
+	background: linear-gradient( #5765ffec, #5765ffec), url('../images/4775.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
